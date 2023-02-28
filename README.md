@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://g.recordit.co/Y8VGU9vrC1.gif' width='' alt='Video Walkthrough' />
+<img src='[http://g.recordit.co/Y8VGU9vrC1.gif](http://g.recordit.co/o1I02k7iA3.gif)' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! --> 
 GIF created with recordit
