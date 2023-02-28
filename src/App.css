@@ -1,0 +1,10 @@
+.App{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+h1 {
+
+  font-size:60px
+
+}
